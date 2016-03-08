@@ -1,4 +1,4 @@
-__my hope here is to figure out how this works and then exclude .md files so that the double space at the end is preserved and treated as a newline per http://daringfireball.net/projects/markdown/syntax#p__
+_my hope here is to figure out how this works and then exclude .md files so that the double space at the end is preserved and treated as a newline per http://daringfireball.net/projects/markdown/syntax#p_
 
 ## White Space Sanitizer
 
